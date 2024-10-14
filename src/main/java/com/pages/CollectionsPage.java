@@ -24,6 +24,13 @@ public class CollectionsPage extends TestBase {
     public ProductPage productPage() {
         JavascriptExecutor js=(JavascriptExecutor)driver;
         js.executeScript("window.scrollBy(0, 1000)");
+
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+
         product.click();
         return new ProductPage();
 

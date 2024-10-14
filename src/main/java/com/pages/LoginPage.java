@@ -20,10 +20,11 @@ public class LoginPage extends TestBase{
 	    @FindBy(xpath = "//*[@id=\"customer_login\"]/input[5]")
 	    WebElement signIn;
 	    
-	    @FindBy(xpath = "//*[@id=\"customer_login\"]/div/ul/li")
+	    @FindBy(xpath = "//form[@id='customer_login']//li[contains(text(),'Incorrect email or password.')]")
 	    WebElement errorMessage;
 
-	@FindBy(xpath = "//div[@class='jsx-2022988330 Icon Icon--USER jsx-3907305029 jsx-85518033']//*[name()='svg']")
+
+	@FindBy(xpath = "//a[@href='/account']//div//*[local-name()='svg']")
 	WebElement user;
 
 
@@ -42,7 +43,10 @@ public class LoginPage extends TestBase{
 	        logger.info("Login form submitted.");
 	        return new HomePage();
 	    }
-	    
+	public boolean validateErrorMessageForInvalidLogin() {
+		logger.info("Validating the error message for incorrect login credentials.");
+		return errorMessage.isDisplayed();
+	}
 	    public String validateLoginPageTitle() {
 			user.click();
 	        String actualTitle = driver.getTitle();
@@ -62,10 +66,6 @@ public class LoginPage extends TestBase{
 	        return signIn.isDisplayed() && signIn.isEnabled();
 	    }
 
-	    public boolean validateErrorMessageForInvalidLogin() {
-			user.click();
-	        logger.info("Validating the error message for incorrect login credentials.");
-	        return errorMessage.isDisplayed();
-	    }
+
 
 }

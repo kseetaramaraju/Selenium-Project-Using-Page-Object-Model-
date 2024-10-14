@@ -30,7 +30,7 @@ public class RegisterPage extends TestBase {
     @FindBy(xpath = "//input[@value='Register']")
     WebElement register;
 
-    @FindBy(xpath = "//div[@class='jsx-2022988330 Icon Icon--USER jsx-3907305029 jsx-85518033']//*[name()='svg']")
+    @FindBy(xpath = "//a[@href='/account']//div//*[local-name()='svg']")
     WebElement user;
 
 
@@ -43,7 +43,8 @@ public class RegisterPage extends TestBase {
 
     public HomePage Register(String firstName, String lastName, String email, String password, String confirmPassword) {
 
-        driver.navigate().to("https://www.allbirds.com/account/login?return_url=%2Faccount");
+//        driver.navigate().to("https://www.allbirds.com/account/login?return_url=%2Faccount");
+        user.click();
         logger.info("Filling in register details: FirstName=" + firstName + ", LastName=" + lastName + ", Email=" + email);
         this.firstName.sendKeys(firstName);
         this.lastName.sendKeys(lastName);
@@ -56,19 +57,22 @@ public class RegisterPage extends TestBase {
     }
     
     public boolean validateRegisterButton() {
-        driver.navigate().to("https://www.allbirds.com/account/login?return_url=%2Faccount");
+//        driver.navigate().to("https://www.allbirds.com/account/login?return_url=%2Faccount");
+        user.click();
         logger.info("Validating that the Register button is displayed and enabled.");
         return register.isDisplayed() && register.isEnabled();
     }
 
     public boolean validateFieldsOnRegisterPage() {
-        driver.navigate().to("https://www.allbirds.com/account/login?return_url=%2Faccount");
+//        driver.navigate().to("https://www.allbirds.com/account/login?return_url=%2Faccount");
+        user.click();
         logger.info("Validating that the register fields are displayed and enabled.");
         return firstName.isDisplayed() && lastName.isDisplayed() && email.isDisplayed() && password.isDisplayed() && confirmPassword.isDisplayed();
     }
 
     public String validateRegsiterPageTitle() {
-        driver.navigate().to("https://www.allbirds.com/account/login?return_url=%2Faccount");
+//        driver.navigate().to("https://www.allbirds.com/account/login?return_url=%2Faccount");
+        user.click();
         String title = driver.getTitle();
         logger.info("Signup page title: " + title);
         return title;

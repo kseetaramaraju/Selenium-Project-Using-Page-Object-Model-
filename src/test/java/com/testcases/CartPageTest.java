@@ -34,11 +34,17 @@ public class CartPageTest  extends TestBase {
     void viewCartTest() {
         login =homePage.viewAccount();
         homePage = login.login(data.getProperty("email"), data.getProperty("password"));
-        driver.navigate().to("https://www.allbirds.com/");
+
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        //driver.navigate().to("https://www.allbirds.com/");
         collectionsPage = homePage.viewMensProduct("Active Shoes");
         productPage = collectionsPage.productPage();
         homePage = productPage.selectProduct();
-        driver.navigate().to("https://www.allbirds.com/");
+        //driver.navigate().to("https://www.allbirds.com/");
         homePage.viewCart();
 
     }

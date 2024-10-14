@@ -62,8 +62,9 @@ public class HomePageTest extends TestBase{
 	@Feature("View Women's Products")
 	@Story("As a user, I want to view the women's products from the category Shop all.")
 	@Step("Viewing Women's products: Shop all.")
-	void viewWomensProduct() {
-		homePage.viewWomensProduct("Shop all");
+	void viewWomensProduct()
+	{
+		homePage.viewWomensProduct("Flats");
 		try {
 			Thread.sleep(2000);
 		} catch (InterruptedException e) {
@@ -108,7 +109,7 @@ public class HomePageTest extends TestBase{
 	@Feature("Search Items")
 	@Story("As a user, I want to search for products on the homepage.")
 	@Step("Searching for items on the homepage.")
-	void searchItems() {
+	void searchItems() throws InterruptedException {
 		homePage.searchItems();
 		try {
 			Thread.sleep(2000);
@@ -166,6 +167,7 @@ public class HomePageTest extends TestBase{
 	@Story("As a user, I want to view mens Catagory.")
 	@Step("Viewing the Mens Catogory.")
 	void testValidateMensCategoryPresence(){
+
 		AssertJUnit.assertTrue(homePage.validateMensCategoryPresence());
 	}
 	

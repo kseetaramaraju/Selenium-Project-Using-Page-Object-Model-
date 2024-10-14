@@ -11,17 +11,15 @@ import org.openqa.selenium.support.PageFactory;
 public class ProductPage extends TestBase{
 
     public static Logger logger=Logger.getLogger(ProductPage.class);
-    @FindBy(xpath = "//*[@id=\"pdp-container\"]/div/div/div/div[1]/div[1]/div/div/div[1]/button[2]")
-    WebElement image;
+    @FindBy(xpath = "//div[@class='jsx-3582184252 ColorSwatch']")
+    WebElement selectEdition;
 
-    @FindBy(xpath = "//*[@id=\"pdp-container\"]/div/div/div/div[2]/div/div[2]/div/div[1]/div[2]/button[2]")
-    WebElement color;
 
-    @FindBy(xpath = "//*[@id=\"pdp-size-selector\"]/ul/li[2]/button")
+    @FindBy(xpath = "//button[@aria-label='Add Size 9']//span[@class='jsx-32168038 jsx-1605516658 SizeButton-content']")
     WebElement size;
 
-    @FindBy(id = "add-to-cart")
-    WebElement button;
+    @FindBy(xpath = "//button[@id='add-to-cart']")
+    WebElement addToCartBtn;
 
     @FindBy(xpath = "//button[normalize-space()='Continue Shopping']")
     WebElement conButton;
@@ -32,10 +30,27 @@ public class ProductPage extends TestBase{
     }
 
     public HomePage selectProduct() {
-        image.click();
-        color.click();
+
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        selectEdition.click();
+
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
         size.click();
-        button.click();
+
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        addToCartBtn.click();
         try {
             Thread.sleep(2000);
         } catch (InterruptedException e) {

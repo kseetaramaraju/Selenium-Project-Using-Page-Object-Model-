@@ -2763,4 +2763,875 @@
   2024-09-23 12:20:30 INFO  CustomListener:25 - Test case started: viewCartTest
   2024-09-23 12:20:30 WARN  CustomListener:53 - Test case skipped: viewCartTest
   2024-09-23 12:20:30 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-10 17:21:30 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:21:30 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:21:30 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:21:30 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:21:30 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:21:30 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:21:30 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-10 17:21:30 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-10 17:21:37 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-10 17:21:37 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-10 17:21:37 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-10 17:21:37 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-10 17:21:37 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-10 17:21:40 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:21:40 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:21:40 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:21:40 INFO  RegisterPage:41 - Registration Page elements initialized.
+  2024-10-10 17:21:40 INFO  CustomListener:25 - Test case started: registerTest
+  2024-10-10 17:21:44 INFO  RegisterPage:47 - Filling in register details: FirstName=Kalle, LastName=SeetaRamaRaju, Email=kseetaramaraju1@gmail.com
+  2024-10-10 17:21:45 INFO  RegisterPage:53 - Submitting register form.
+  2024-10-10 17:21:47 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:21:47 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:21:47 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:21:47 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-10 17:21:47 INFO  CustomListener:33 - Test case passed: registerTest
+  2024-10-10 17:21:48 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-10 17:31:40 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:31:40 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:31:40 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:31:40 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:31:40 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:31:40 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:31:40 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-10 17:31:40 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-10 17:31:41 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-10 17:31:41 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-10 17:31:41 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-10 17:31:41 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-10 17:31:41 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-10 17:31:46 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:31:46 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:31:46 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:31:46 INFO  RegisterPage:41 - Registration Page elements initialized.
+  2024-10-10 17:31:46 INFO  CustomListener:25 - Test case started: registerTest
+  2024-10-10 17:31:53 INFO  RegisterPage:48 - Filling in register details: FirstName=Kalle, LastName=SeetaRamaRaju, Email=kseetaramaraju1@gmail.com
+  2024-10-10 17:31:54 INFO  RegisterPage:54 - Submitting register form.
+  2024-10-10 17:31:58 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:31:58 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:31:58 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:31:58 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-10 17:31:58 INFO  CustomListener:33 - Test case passed: registerTest
+  2024-10-10 17:31:58 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-10 17:33:56 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:33:57 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:33:57 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:33:57 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:33:57 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:33:57 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:33:57 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-10 17:33:57 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-10 17:33:58 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-10 17:33:58 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-10 17:33:58 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-10 17:33:58 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-10 17:33:58 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-10 17:34:01 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:34:01 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:34:01 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:34:01 INFO  RegisterPage:41 - Registration Page elements initialized.
+  2024-10-10 17:34:01 INFO  CustomListener:25 - Test case started: validateRegisterFieldsTest
+  2024-10-10 17:34:04 INFO  RegisterPage:68 - Validating that the register fields are displayed and enabled.
+  2024-10-10 17:34:04 INFO  CustomListener:33 - Test case passed: validateRegisterFieldsTest
+  2024-10-10 17:34:05 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-10 17:36:11 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:36:11 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:36:11 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:36:11 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:36:11 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:36:11 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:36:11 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-10 17:36:11 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-10 17:36:13 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-10 17:36:13 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-10 17:36:13 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-10 17:36:13 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-10 17:36:13 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-10 17:36:17 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:36:17 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:36:17 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:36:17 INFO  RegisterPage:41 - Registration Page elements initialized.
+  2024-10-10 17:36:17 INFO  CustomListener:25 - Test case started: validateRegisterButtonTest
+  2024-10-10 17:36:20 INFO  RegisterPage:62 - Validating that the Register button is displayed and enabled.
+  2024-10-10 17:36:20 INFO  CustomListener:33 - Test case passed: validateRegisterButtonTest
+  2024-10-10 17:36:21 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-10 17:37:38 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:37:38 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:37:38 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:37:38 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:37:38 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:37:38 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:37:38 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-10 17:37:38 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-10 17:37:39 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-10 17:37:39 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-10 17:37:39 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-10 17:37:39 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-10 17:37:39 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-10 17:37:43 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:37:43 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:37:43 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:37:43 INFO  RegisterPage:41 - Registration Page elements initialized.
+  2024-10-10 17:37:43 INFO  CustomListener:25 - Test case started: validateRegisterPageTitleTest
+  2024-10-10 17:37:47 INFO  RegisterPage:77 - Signup page title: Login or Create an Account - Allbirds
+  2024-10-10 17:37:47 INFO  CustomListener:33 - Test case passed: validateRegisterPageTitleTest
+  2024-10-10 17:37:47 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-10 17:40:57 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:40:57 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:40:57 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:40:57 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:40:57 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:40:57 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:40:57 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-10 17:40:57 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-10 17:40:58 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-10 17:40:58 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-10 17:40:58 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-10 17:40:58 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-10 17:40:58 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-10 17:41:08 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:41:08 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:41:08 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:41:08 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-10-10 17:41:08 INFO  CustomListener:25 - Test case started: loginTest
+  2024-10-10 17:41:10 INFO  LoginPage:38 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-10 17:41:13 INFO  LoginPage:42 - Login form submitted.
+  2024-10-10 17:41:13 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:41:13 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:41:13 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:41:13 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-10 17:41:13 INFO  CustomListener:33 - Test case passed: loginTest
+  2024-10-10 17:41:14 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-10 17:44:47 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:44:47 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:44:47 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:44:47 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:44:47 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:44:47 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:44:47 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-10 17:44:47 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-10 17:44:48 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-10 17:44:48 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-10 17:44:48 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-10 17:44:48 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-10 17:44:48 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-10 17:44:58 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:44:58 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:44:58 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:44:58 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-10-10 17:44:59 INFO  CustomListener:25 - Test case started: loginFailureTest
+  2024-10-10 17:45:16 INFO  LoginPage:38 - Attempting login with email: invalid-email@example.com
+  2024-10-10 17:45:19 INFO  LoginPage:42 - Login form submitted.
+  2024-10-10 17:45:19 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-10 17:45:19 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-10 17:45:19 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-10 17:45:19 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-10 17:45:21 INFO  LoginPage:67 - Validating the error message for incorrect login credentials.
+  2024-10-10 17:45:31 ERROR CustomListener:40 - Test case failed: loginFailureTest
+  2024-10-10 17:45:31 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 10:46:28 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:46:28 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:46:28 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:46:28 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:46:28 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:46:28 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:46:28 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 10:46:28 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 10:46:31 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 10:46:31 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 10:46:31 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 10:46:31 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 10:46:31 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 10:46:35 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:46:35 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:46:35 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:46:35 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 10:46:35 INFO  CustomListener:25 - Test case started: validateErrorMessageForInvalidLoginTest
+  2024-10-11 10:46:38 INFO  LoginPage:39 - Attempting login with email: invalid-email@example.com
+  2024-10-11 10:46:41 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 10:46:41 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:46:41 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:46:41 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:46:41 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-11 10:46:44 INFO  LoginPage:69 - Validating the error message for incorrect login credentials.
+  2024-10-11 10:46:54 ERROR CustomListener:40 - Test case failed: validateErrorMessageForInvalidLoginTest
+  2024-10-11 10:46:55 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 10:48:21 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:48:22 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:48:22 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:48:22 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:48:22 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:48:22 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:48:22 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 10:48:22 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 10:48:23 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 10:48:23 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 10:48:23 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 10:48:23 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 10:48:23 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 10:48:26 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:48:26 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:48:26 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:48:26 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 10:48:26 INFO  CustomListener:25 - Test case started: validateErrorMessageForInvalidLoginTest
+  2024-10-11 10:48:30 INFO  LoginPage:39 - Attempting login with email: invalid-email@example.com
+  2024-10-11 10:48:33 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 10:48:33 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:48:33 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:48:33 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:48:33 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-11 10:48:38 INFO  LoginPage:69 - Validating the error message for incorrect login credentials.
+  2024-10-11 10:48:49 ERROR CustomListener:40 - Test case failed: validateErrorMessageForInvalidLoginTest
+  2024-10-11 10:48:50 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 10:50:41 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:50:41 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:50:41 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:50:41 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:50:41 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:50:41 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:50:41 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 10:50:41 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 10:50:42 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 10:50:42 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 10:50:42 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 10:50:42 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 10:50:42 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 10:50:46 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:50:46 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:50:46 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:50:46 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 10:50:46 INFO  CustomListener:25 - Test case started: validateErrorMessageForInvalidLoginTest
+  2024-10-11 10:50:49 INFO  LoginPage:39 - Attempting login with email: invalid-email@example.com
+  2024-10-11 10:50:52 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 10:50:52 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:50:52 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:50:52 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:50:52 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-11 10:50:52 INFO  LoginPage:67 - Validating the error message for incorrect login credentials.
+  2024-10-11 10:50:52 INFO  CustomListener:33 - Test case passed: validateErrorMessageForInvalidLoginTest
+  2024-10-11 10:50:53 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 10:53:11 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:53:11 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:53:11 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:53:11 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:53:11 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:53:11 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:53:11 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 10:53:11 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 10:53:13 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 10:53:13 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 10:53:13 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 10:53:13 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 10:53:13 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 10:53:17 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:53:17 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:53:17 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:53:17 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 10:53:17 INFO  CustomListener:25 - Test case started: validateLoginPageTitleTest
+  2024-10-11 10:53:20 INFO  LoginPage:53 - Validating login page title:  , Actual - Login or Create an Account - Allbirds
+  2024-10-11 10:53:20 INFO  CustomListener:33 - Test case passed: validateLoginPageTitleTest
+  2024-10-11 10:53:20 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 10:53:48 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:53:48 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:53:48 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:53:48 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:53:48 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:53:48 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:53:49 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 10:53:49 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 10:53:50 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 10:53:50 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 10:53:50 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 10:53:50 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 10:53:50 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 10:53:53 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:53:53 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:53:53 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:53:53 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 10:53:53 INFO  CustomListener:25 - Test case started: validateEmailAndPasswordFieldsTest
+  2024-10-11 10:53:57 INFO  LoginPage:59 - Validating email and password fields are enabled.
+  2024-10-11 10:53:57 INFO  CustomListener:33 - Test case passed: validateEmailAndPasswordFieldsTest
+  2024-10-11 10:53:57 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 10:54:12 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:54:12 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:54:12 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:54:12 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:54:12 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:54:12 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:54:12 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 10:54:12 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 10:54:13 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 10:54:14 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 10:54:14 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 10:54:14 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 10:54:14 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 10:54:16 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:54:16 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:54:16 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:54:16 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 10:54:16 INFO  CustomListener:25 - Test case started: validateSignInButtonTest
+  2024-10-11 10:54:20 INFO  LoginPage:65 - Validating that the Sign-in button is displayed and enabled.
+  2024-10-11 10:54:20 INFO  CustomListener:33 - Test case passed: validateSignInButtonTest
+  2024-10-11 10:54:21 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 10:59:52 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:59:52 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:59:52 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:59:52 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:59:52 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:59:52 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:59:52 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 10:59:52 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 10:59:54 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 10:59:54 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 10:59:54 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 10:59:54 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 10:59:54 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 10:59:57 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 10:59:57 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 10:59:57 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 10:59:57 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:00:00 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:00:04 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:00:04 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:00:04 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:00:04 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:00:04 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-11 11:00:04 INFO  CustomListener:25 - Test case started: viewMensProduct
+  2024-10-11 11:00:04 INFO  HomePage:45 - Navigating to Men's product category.
+  2024-10-11 11:00:04 INFO  HomePage:50 - Selecting Men's product: Everyday Sneakers
+  2024-10-11 11:00:07 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:00:07 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:00:07 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:00:07 INFO  CollectionsPage:21 - CartPage elements initialized.
+  2024-10-11 11:00:09 INFO  CustomListener:33 - Test case passed: viewMensProduct
+  2024-10-11 11:00:12 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:03:01 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:03:01 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:03:01 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:03:01 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:03:01 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:03:01 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:03:01 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:03:01 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:03:03 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:03:03 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:03:03 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:03:03 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:03:03 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:03:06 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:03:06 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:03:06 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:03:07 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:03:10 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:03:13 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:03:13 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:03:13 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:03:13 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:03:13 INFO  HomePage:40 - HomePage elements initialized.
+  2024-10-11 11:03:13 INFO  CustomListener:25 - Test case started: viewWomensProduct
+  2024-10-11 11:03:13 INFO  HomePage:59 - Navigating to Women's product category.
+  2024-10-11 11:03:13 INFO  HomePage:63 - Selecting Women's product: Flats
+  2024-10-11 11:03:16 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:03:16 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:03:16 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:03:16 INFO  CollectionsPage:21 - CartPage elements initialized.
+  2024-10-11 11:03:18 INFO  CustomListener:33 - Test case passed: viewWomensProduct
+  2024-10-11 11:03:21 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:07:53 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:07:53 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:07:53 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:07:54 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:07:54 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:07:54 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:07:54 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:07:54 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:07:55 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:07:55 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:07:55 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:07:55 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:07:55 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:07:59 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:07:59 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:07:59 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:07:59 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:08:03 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:08:06 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:08:06 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:08:06 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:08:06 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:08:06 INFO  HomePage:41 - HomePage elements initialized.
+  2024-10-11 11:08:06 INFO  CustomListener:25 - Test case started: viewSocks
+  2024-10-11 11:08:06 INFO  HomePage:72 - Navigating to Socks category.
+  2024-10-11 11:08:11 INFO  CustomListener:33 - Test case passed: viewSocks
+  2024-10-11 11:08:14 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:13:29 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:13:29 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:13:29 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:13:29 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:13:29 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:13:29 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:13:29 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:13:29 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:13:31 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:13:31 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:13:31 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:13:31 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:13:31 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:13:35 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:13:35 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:13:35 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:13:35 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:13:39 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:13:43 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:13:43 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:13:43 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:13:43 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:13:43 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:13:43 INFO  CustomListener:25 - Test case started: viewSocks
+  2024-10-11 11:13:43 INFO  HomePage:69 - Navigating to Socks category.
+  2024-10-11 11:13:49 INFO  CustomListener:33 - Test case passed: viewSocks
+  2024-10-11 11:13:51 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:15:12 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:15:13 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:15:13 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:15:13 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:15:13 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:15:13 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:15:13 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:15:13 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:15:14 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:15:14 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:15:14 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:15:14 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:15:14 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:15:18 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:15:18 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:15:18 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:15:18 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:15:21 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:15:25 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:15:25 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:15:25 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:15:25 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:15:25 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:15:25 INFO  CustomListener:25 - Test case started: viewSales
+  2024-10-11 11:15:25 INFO  HomePage:81 - Navigating to Sales category.
+  2024-10-11 11:15:27 INFO  CustomListener:33 - Test case passed: viewSales
+  2024-10-11 11:15:30 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:19:25 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:19:25 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:19:25 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:19:25 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:19:25 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:19:25 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:19:25 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:19:25 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:19:26 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:19:26 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:19:26 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:19:26 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:19:26 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:19:31 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:19:31 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:19:31 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:19:31 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:19:36 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:19:40 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:19:40 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:19:40 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:19:40 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:19:40 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:19:40 INFO  CustomListener:25 - Test case started: searchItems
+  2024-10-11 11:19:40 INFO  HomePage:88 - Opening search functionality.
+  2024-10-11 11:19:48 INFO  CustomListener:33 - Test case passed: searchItems
+  2024-10-11 11:19:51 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:21:00 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:21:01 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:21:01 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:21:01 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:21:01 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:21:01 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:21:01 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:21:01 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:21:02 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:21:02 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:21:02 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:21:02 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:21:02 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:21:23 INFO  CustomListener:25 - Test case started: searchItems
+  2024-10-11 11:21:23 WARN  CustomListener:53 - Test case skipped: searchItems
+  2024-10-11 11:21:23 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:24:07 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:24:07 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:24:07 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:24:07 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:24:07 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:24:07 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:24:07 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:24:07 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:24:09 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:24:09 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:24:09 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:24:09 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:24:09 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:24:28 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:24:28 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:24:28 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:24:28 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:24:36 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:24:50 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:24:50 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:24:50 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:24:50 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:24:50 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:24:51 INFO  CustomListener:25 - Test case started: searchItems
+  2024-10-11 11:24:51 INFO  HomePage:88 - Opening search functionality.
+  2024-10-11 11:25:00 INFO  CustomListener:33 - Test case passed: searchItems
+  2024-10-11 11:25:03 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:27:27 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:27:28 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:27:28 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:27:28 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:27:28 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:27:28 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:27:28 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:27:28 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:27:29 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:27:29 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:27:29 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:27:29 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:27:29 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:27:33 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:27:33 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:27:33 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:27:33 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:27:36 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:27:39 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:27:39 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:27:39 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:27:39 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:27:39 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:27:39 INFO  CustomListener:25 - Test case started: viewAccount
+  2024-10-11 11:27:39 INFO  HomePage:102 - Navigating to User account page.
+  2024-10-11 11:27:42 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:27:42 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:27:42 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:27:42 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:27:44 INFO  CustomListener:33 - Test case passed: viewAccount
+  2024-10-11 11:27:47 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:28:21 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:28:21 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:28:21 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:28:21 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:28:21 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:28:21 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:28:21 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:28:21 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:28:22 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:28:23 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:28:23 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:28:23 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:28:23 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:28:25 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:28:25 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:28:25 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:28:25 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:28:29 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:28:32 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:28:32 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:28:32 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:28:32 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:28:32 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:28:32 INFO  CustomListener:25 - Test case started: viewAccount
+  2024-10-11 11:28:32 INFO  HomePage:102 - Navigating to User account page.
+  2024-10-11 11:28:34 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:28:34 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:28:34 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:28:34 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:28:36 INFO  CustomListener:33 - Test case passed: viewAccount
+  2024-10-11 11:28:38 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:28:55 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:28:55 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:28:55 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:28:55 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:28:55 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:28:55 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:28:55 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:28:55 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:28:56 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:28:56 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:28:56 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:28:56 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:28:56 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:29:00 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:29:00 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:29:00 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:29:00 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:29:04 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:29:08 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:29:08 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:29:08 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:29:08 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:29:08 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:29:08 INFO  CustomListener:25 - Test case started: viewAccount
+  2024-10-11 11:29:08 INFO  HomePage:102 - Navigating to User account page.
+  2024-10-11 11:29:11 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:29:11 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:29:11 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:29:11 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:29:13 INFO  CustomListener:33 - Test case passed: viewAccount
+  2024-10-11 11:29:16 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:30:53 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:30:53 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:30:53 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:30:54 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:30:54 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:30:54 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:30:54 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:30:54 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:30:55 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:30:55 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:30:55 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:30:55 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:30:55 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:30:58 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:30:58 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:30:58 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:30:58 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:31:01 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:31:04 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:31:04 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:31:04 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:31:04 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:31:04 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:31:04 INFO  CustomListener:25 - Test case started: viewCart
+  2024-10-11 11:31:04 INFO  HomePage:111 - Navigating to Cart page.
+  2024-10-11 11:31:04 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:31:04 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:31:04 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:31:04 INFO  CartPage:22 - CartPage elements initialized.
+  2024-10-11 11:31:06 INFO  CustomListener:33 - Test case passed: viewCart
+  2024-10-11 11:31:08 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 11:32:44 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:32:44 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:32:44 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:32:44 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:32:44 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:32:44 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:32:44 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 11:32:44 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 11:32:46 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 11:32:46 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 11:32:46 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 11:32:46 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 11:32:46 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 11:32:49 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:32:49 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:32:49 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:32:49 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 11:32:51 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 11:32:54 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 11:32:54 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 11:32:54 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 11:32:54 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 11:32:54 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 11:32:54 INFO  CustomListener:25 - Test case started: testValidateHomePageTitle
+  2024-10-11 11:32:54 INFO  HomePage:120 - Validating home page title: Actual - My Account - Allbirds
+  2024-10-11 11:32:54 INFO  CustomListener:33 - Test case passed: testValidateHomePageTitle
+  2024-10-11 11:32:57 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 12:02:49 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:02:49 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:02:49 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:02:49 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:02:49 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:02:49 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:02:49 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 12:02:49 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 12:02:51 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 12:02:52 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 12:02:52 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 12:02:52 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 12:02:52 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 12:02:55 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:02:55 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:02:55 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:02:55 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 12:02:57 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 12:03:01 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 12:03:01 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:03:01 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:03:01 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:03:01 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 12:03:01 INFO  CustomListener:25 - Test case started: testValidateMensCategoryPresence
+  2024-10-11 12:03:01 INFO  HomePage:126 - Validating Men's category button is displayed.
+  2024-10-11 12:03:01 INFO  CustomListener:33 - Test case passed: testValidateMensCategoryPresence
+  2024-10-11 12:03:03 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 12:03:24 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:03:24 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:03:24 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:03:24 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:03:24 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:03:24 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:03:24 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 12:03:24 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 12:03:26 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 12:03:26 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 12:03:26 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 12:03:26 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 12:03:26 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 12:03:28 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:03:28 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:03:28 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:03:28 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 12:03:31 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 12:03:35 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 12:03:35 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:03:35 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:03:35 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:03:35 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 12:03:35 INFO  CustomListener:25 - Test case started: testValidateCartButtonPresence
+  2024-10-11 12:03:35 INFO  HomePage:132 - Validating Cart button is displayed.
+  2024-10-11 12:03:35 INFO  CustomListener:33 - Test case passed: testValidateCartButtonPresence
+  2024-10-11 12:03:37 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 12:12:13 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:12:13 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:12:13 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:12:13 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:12:13 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:12:13 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:12:13 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 12:12:13 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 12:12:14 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 12:12:14 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 12:12:14 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 12:12:14 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 12:12:14 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 12:12:17 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:12:17 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:12:17 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:12:17 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 12:12:17 INFO  CustomListener:25 - Test case started: viewCartTest
+  2024-10-11 12:12:17 INFO  HomePage:102 - Navigating to User account page.
+  2024-10-11 12:12:20 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:12:20 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:12:20 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:12:20 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 12:12:22 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 12:12:25 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 12:12:25 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:12:25 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:12:25 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:12:25 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 12:12:28 INFO  HomePage:47 - Navigating to Men's product category.
+  2024-10-11 12:12:28 INFO  HomePage:51 - Selecting Men's product: Active Shoes
+  2024-10-11 12:12:31 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:12:31 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:12:31 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:12:31 INFO  CollectionsPage:21 - CartPage elements initialized.
+  2024-10-11 12:12:39 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:12:39 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:12:39 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:12:39 INFO  ProductPage:31 - CartPage elements initialized.
+  2024-10-11 12:12:53 ERROR CustomListener:40 - Test case failed: viewCartTest
+  2024-10-11 12:12:58 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-11 12:24:16 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:16 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:16 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:16 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:16 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:16 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:16 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-11 12:24:16 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-11 12:24:17 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-11 12:24:17 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-11 12:24:17 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-11 12:24:17 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-11 12:24:17 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-11 12:24:21 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:21 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:21 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:21 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 12:24:21 INFO  CustomListener:25 - Test case started: viewCartTest
+  2024-10-11 12:24:21 INFO  HomePage:102 - Navigating to User account page.
+  2024-10-11 12:24:23 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:23 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:23 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:23 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-11 12:24:26 INFO  LoginPage:39 - Attempting login with email: kseetaramaraju1@gmail.com
+  2024-10-11 12:24:28 INFO  LoginPage:43 - Login form submitted.
+  2024-10-11 12:24:28 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:28 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:28 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:28 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 12:24:31 INFO  HomePage:47 - Navigating to Men's product category.
+  2024-10-11 12:24:31 INFO  HomePage:51 - Selecting Men's product: Active Shoes
+  2024-10-11 12:24:35 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:35 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:35 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:35 INFO  CollectionsPage:21 - CartPage elements initialized.
+  2024-10-11 12:24:41 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:41 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:41 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:41 INFO  ProductPage:29 - CartPage elements initialized.
+  2024-10-11 12:24:52 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:52 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:52 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:52 INFO  HomePage:42 - HomePage elements initialized.
+  2024-10-11 12:24:52 INFO  HomePage:111 - Navigating to Cart page.
+  2024-10-11 12:24:52 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-11 12:24:52 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-11 12:24:52 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-11 12:24:52 INFO  CartPage:22 - CartPage elements initialized.
+  2024-10-11 12:24:52 INFO  CustomListener:33 - Test case passed: viewCartTest
+  2024-10-11 12:24:58 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-13 09:39:53 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-13 09:39:53 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-13 09:39:53 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-13 09:39:53 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-13 09:39:53 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-13 09:39:53 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-13 09:39:53 ERROR CustomListener:40 - Test case failed: testLogin
+  2024-10-13 09:39:53 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-13 10:07:05 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-13 10:07:05 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-13 10:07:05 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-13 10:07:05 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-13 10:07:05 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-13 10:07:05 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-13 10:07:05 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-13 10:07:05 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-13 10:07:07 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-13 10:07:08 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-13 10:07:08 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-13 10:07:08 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-13 10:07:08 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-13 10:07:10 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-13 10:07:10 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-13 10:07:10 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-13 10:07:10 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-13 10:07:10 INFO  CustomListener:25 - Test case started: dataDriven
+  2024-10-13 10:07:10 ERROR CustomListener:40 - Test case failed: dataDriven
+  2024-10-13 10:07:11 INFO  CustomListener:61 - Flushed the Extent report.
+  2024-10-13 10:09:17 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-13 10:09:17 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-13 10:09:17 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-13 10:09:17 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-13 10:09:17 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-13 10:09:17 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-13 10:09:17 INFO  TestBase:52 - Browser selected from properties file: chrome
+  2024-10-13 10:09:17 INFO  TestBase:55 - Initializing Chrome browser.
+  2024-10-13 10:09:19 INFO  TestBase:68 - Maximizing the browser window.
+  2024-10-13 10:09:19 INFO  TestBase:71 - Deleting all cookies.
+  2024-10-13 10:09:19 INFO  TestBase:74 - Setting page load timeout to 20 seconds.
+  2024-10-13 10:09:19 INFO  TestBase:77 - Setting implicit wait timeout to 10 seconds.
+  2024-10-13 10:09:19 INFO  TestBase:82 - Navigating to the URL: https://www.allbirds.com/
+  2024-10-13 10:09:21 INFO  TestBase:29 - Log4j has been initialized.
+  2024-10-13 10:09:21 INFO  TestBase:41 - Loading the configuration properties file.
+  2024-10-13 10:09:21 INFO  TestBase:44 - Configuration file loaded successfully.
+  2024-10-13 10:09:21 INFO  LoginPage:33 - LoginPage elements initialized.
+  2024-10-13 10:09:21 INFO  CustomListener:25 - Test case started: dataDriven
+  2024-10-13 10:09:21 ERROR CustomListener:40 - Test case failed: dataDriven
+  2024-10-13 10:09:22 INFO  CustomListener:61 - Flushed the Extent report.
   
